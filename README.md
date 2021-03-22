@@ -5,7 +5,8 @@ This project was apart of my cloud computing course with Noah Gift, at Duke Univ
 ## Use this notebook in SageMaker 
 
 1. Create notebook instance or upload this notebook.
-<br>
+
+
 2. Run the following command in terminal to ensure you have all the necessary packages. (Might not be necessary.)
 
 ```
