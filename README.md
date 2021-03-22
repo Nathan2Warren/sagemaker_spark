@@ -5,9 +5,12 @@ This project was apart of my cloud computing course with Noah Gift, at Duke Univ
 ## Use this notebook in SageMaker 
 
 1. Create notebook instance or upload this notebook.
+<br>
 2. Run the following command in terminal to ensure you have all the necessary packages. (Might not be necessary.)
 
->```spark-shell --packages com.amazonaws:sagemaker-spark_2.11:spark_2.2.0-1.0```
+```
+spark-shell --packages com.amazonaws:sagemaker-spark_2.11:spark_2.2.0-1.0
+```
 
 3. Run the notebook with the conda_python3 kernel.
 
